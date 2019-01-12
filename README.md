@@ -5,3 +5,7 @@ Components:
 - npm
 - karma
 - headless chromimum
+
+Reference projects
+- [tensorflow-core](https://github.com/tensorflow/tfjs-core)
+- [vuejs](https://github.com/vuejs/vue)
