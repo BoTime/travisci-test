@@ -1,0 +1,26 @@
+{
+  "name": "travisci-test",
+  "version": "1.0.0",
+  "description": "TravisCI Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoTime/travisci-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoTime/travisci-test/issues"
+  },
+  "homepage": "https://github.com/BoTime/travisci-test#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.1",
+    "karma": "^3.1.4",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^2.0.1",
+    "puppeteer": "^1.11.0"
+  }
+}
