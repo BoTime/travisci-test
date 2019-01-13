@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/BoTime/travisci-test.svg?branch=master)](https://travis-ci.org/BoTime/travisci-test)
+
 Create an example to learn how to do integration tests for UI/WebGL related
 functionalities in TravisCI
 
