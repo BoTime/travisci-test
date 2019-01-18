@@ -1,1 +1,7 @@
 node_modules/
+
+# IDE generated files
+.idea/
+
+# Files from other source control sosftware e.g SVN
+.svn/
