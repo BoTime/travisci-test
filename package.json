@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BoTime/travisci-test#readme",
   "devDependencies": {
+    "http-server": "^0.11.1",
     "jasmine-core": "^3.3.0",
     "karma": "^3.1.4",
     "karma-chrome-launcher": "^2.2.0",
